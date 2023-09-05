@@ -25,7 +25,7 @@ class _MyListaState extends State<MyLista> {
             leading: Icon(Icons.person),
             title: Text("Testando"),
             subtitle: Text("testando"),
-            trailing: Icon(Icons.arrow_forward_ios),
+            trailing: Icon(Icons.person),
           );
          }, 
         
